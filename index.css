@@ -1,7 +1,9 @@
 * { margin: 0; padding: 0; }
 
 #Navigation{
-    
+    position:fixed;
+    top: 0; 
+    margin-left: 35px;
     color: white;
     font-family: Vladimir Script;
     font-size: 25px;
@@ -16,15 +18,16 @@
 #Navigation a:hover {
     color: rgb(65, 175, 170);
     text-decoration: none;
+    background-color: rgb(60, 79, 78) 
 }
 
 
 #Home{
-    background-color: rgb(55, 0, 55);    
+    background-color: rgb(97, 97, 97);    
 }
 #Welcome{
     margin-left: 35px;
-    font-size: 42px;
+    font-size: 30px;
     color: white;
     font-family: Bookman Old Style;
     font-style: italic;   
@@ -36,17 +39,16 @@
     margin-left: 165px;
 }
 #Welcomep2{
-    margin-left: 200px;
+    margin-left: 220px;
     color: white;
-    font-size: 42px;
+    font-size: 30px;
     font-family: Bookman Old Style;
     font-style: italic;
 }
 #DonationOptions a:link,
 #DonationOptions a:visited,
 #DonationOptions a:hover{
-    margin-left: 165px;
-    
+    margin-left: 250px; 
     color: rgb(55,0,55);
     background-color: white;
     font-size: 36px;
@@ -70,6 +72,18 @@
     font-size: 42px;
     margin-left: 35px;
 }
+#AboutUsInfo{
+    color: white;
+    font-family: Bookman Old Style;
+    margin-left: 35px;
+    font-size: 16px
+}
+#AboutUsIssues{
+    color:white;
+    margin-left: 35px;
+    font-family: Bookman Old Style;
+    font-size: 16px;
+}
 
 
 #ContactUs{
@@ -80,4 +94,10 @@
     font-family: Vladimir Script;
     font-size: 42px;
     margin-left: 35px;
+}
+#ContactUsInfo{
+    color: white;
+    font-family: Bookman Old Style;
+    margin-left: 35px;
+    font-size: 16px;
 }
