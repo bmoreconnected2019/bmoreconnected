@@ -3,7 +3,7 @@
 #Navigation{
     position:fixed;
     top: 0; 
-    margin-left: 35px;
+    padding: 30px 25px;
     color: white;
     font-family: Vladimir Script;
     font-size: 25px;
@@ -12,8 +12,9 @@
 }
 #Navigation a:link,
 #Navigation a:visited{
-   color: white;
-   text-decoration: none;
+    padding: 14px 25px;
+    color: white;
+    text-decoration: none;
 }
 #Navigation a:hover {
     color: rgb(65, 175, 170);
@@ -23,7 +24,7 @@
 
 
 #Home{
-    background-color: rgb(97, 97, 97);    
+    background-color: rgb(55,0,55);;    
 }
 #Welcome{
     margin-left: 35px;
