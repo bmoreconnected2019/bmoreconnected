@@ -51,6 +51,7 @@
 #DonationOptions{
     word-spacing: 75px;
     margin: 0 auto;
+    text-align: center;
 }
 #DonationOptions a:link,
 #DonationOptions a:visited{
