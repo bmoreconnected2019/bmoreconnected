@@ -1,0 +1,29 @@
+* { margin: 0; padding: 0; }
+
+#Navigation{
+    width: 100%;
+    margin-left: 0px;
+    position:fixed;
+    top: 0; 
+    color: white;
+    font-family: Vladimir Script;
+    font-size: 25px;
+    background-color:rgb(75, 94, 93);
+    word-spacing: 25px;
+}
+#Navigation a:link,
+#Navigation a:visited{
+    padding: 0px 25px;
+    color: white;
+    text-decoration: none;
+}
+#Navigation a:hover {
+    color: rgb(65, 175, 170);
+    text-decoration: none;
+    background-color: rgb(60, 79, 78) 
+}
+
+
+#Home{
+    background-color: rgb(55,0,55);;    
+}
