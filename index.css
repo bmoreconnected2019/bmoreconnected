@@ -3,7 +3,6 @@
 #Navigation{
     width: 100%;
     position:fixed;
-    margin-left: 35px;
     top: 0; 
     color: white;
     font-family: Vladimir Script;
@@ -13,7 +12,7 @@
 }
 #Navigation a:link,
 #Navigation a:visited{
-    padding: 20px 25px;
+    padding: 14px 25px;
     color: white;
     text-decoration: none;
 }
@@ -90,7 +89,7 @@
 
 
 #ContactUs{
-    background-color: rgb(75, 94, 93)
+    background-color: rgb(85, 104, 103)
 }
 #ContactUsTitle{
     color: white;
