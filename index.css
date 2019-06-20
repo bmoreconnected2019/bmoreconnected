@@ -21,6 +21,7 @@
     background-color: rgb(55, 0, 55);    
 }
 #Welcome{
+    margin-left: 35px;
     font-size: 42px;
     color: white;
     font-family: Bookman Old Style;
@@ -32,6 +33,8 @@
     font-size: 72px;
 }
 #Welcomep2{
+    margin-left: 165px;
+    margin-right: 35px;
     color: white;
     font-size: 42px;
     font-family: Bookman Old Style;
@@ -40,11 +43,19 @@
 #DonationOptions a:link,
 #DonationOptions a:visited,
 #DonationOptions a:hover{
+    margin-left: 80px;
+    margin-right:80px;
     color: rgb(55,0,55);
     background-color: white;
     font-size: 36px;
     text-decoration: none;
     font-family: Bookman Old Style;
+}
+#DonationQuestion{
+    color: white;
+    font-family: Vladimir Script;
+    margin-left: 35px;
+    font-size: 56px;
 }
 
 
