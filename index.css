@@ -89,6 +89,7 @@
     font-size: 24px;
     font-style: bold;
     float: left;
+    width: 40%;
 }
 #AboutUsIssues{
     color:white;
@@ -99,6 +100,8 @@
 }
 #AboutUsImage{
     float: right;
+    margin-left: 35px;
+    
 }
 
 
