@@ -3,6 +3,7 @@
 #Navigation{
     width: 100%;
     position:fixed;
+    margin-left: 35px;
     top: 0; 
     color: white;
     font-family: Vladimir Script;
@@ -12,7 +13,7 @@
 }
 #Navigation a:link,
 #Navigation a:visited{
-    padding: 30px 25px;
+    padding: 20px 25px;
     color: white;
     text-decoration: none;
 }
@@ -50,7 +51,7 @@
 #DonationOptions a:visited,
 #DonationOptions a:hover{
     padding: 20px 30px;
-    margin-left: 250px; 
+    margin-left: 200px; 
     color: rgb(55,0,55);
     background-color: white;
     font-size: 36px;
@@ -61,7 +62,7 @@
     color: white;
     font-family: Vladimir Script;
     margin-left: 35px;
-    font-size: 56px;
+    font-size: 36px;
 }
 
 
