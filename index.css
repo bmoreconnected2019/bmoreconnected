@@ -50,8 +50,7 @@
 #DonationOptions a:link,
 #DonationOptions a:visited{
     padding: 20px 30px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     color: rgb(55,0,55);
     background-color: white;
     font-size: 36px;
