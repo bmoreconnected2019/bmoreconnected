@@ -1,12 +1,12 @@
 * { margin: 0; padding: 0; }
 
 #Navigation{
-    margin-left: 35px;
+    
     color: white;
     font-family: Vladimir Script;
     font-size: 25px;
     background-color:rgb(75, 94, 93);
-    word-spacing: 15px;
+    word-spacing: 25px;
 }
 #Navigation a:link,
 #Navigation a:visited{
