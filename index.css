@@ -49,6 +49,7 @@
 }
 #DonationOptions a:link,
 #DonationOptions a:visited{
+    word-spacing: 35px;
     padding: 20px 30px;
     margin: 0 auto;
     color: rgb(55,0,55);
