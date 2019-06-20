@@ -4,7 +4,6 @@
     width: 100%;
     position:fixed;
     top: 0; 
-    padding: 30px 25px;
     color: white;
     font-family: Vladimir Script;
     font-size: 25px;
@@ -13,7 +12,7 @@
 }
 #Navigation a:link,
 #Navigation a:visited{
-    padding: 14px 25px;
+    padding: 30px 25px;
     color: white;
     text-decoration: none;
 }
@@ -50,6 +49,7 @@
 #DonationOptions a:link,
 #DonationOptions a:visited,
 #DonationOptions a:hover{
+    padding: 20px 30px;
     margin-left: 250px; 
     color: rgb(55,0,55);
     background-color: white;
