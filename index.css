@@ -68,9 +68,16 @@
     color: white;
     font-family: Vladimir Script;
     font-size: 42px;
+    margin-left: 35px;
 }
 
 
 #ContactUs{
     background-color: rgb(75, 94, 93)
+}
+#ContactUsTitle{
+    color: white;
+    font-family: Vladimir Script;
+    font-size: 42px;
+    margin-left: 35px;
 }
