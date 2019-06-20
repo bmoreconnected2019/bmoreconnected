@@ -1,7 +1,9 @@
+* { margin: 0; padding: 0; }
+
 #Navigation{
     color: white;
     font-family: Vladimir Script;
-    font-size: 14px;
+    font-size: 25px;
     background-color:rgb(75, 94, 93)
 }
 #Navigation a:link,
@@ -19,7 +21,7 @@
     background-color: rgb(55, 0, 55);    
 }
 #Welcome{
-    font-size: 20px;
+    font-size: 42px;
     color: white;
     font-family: Bookman Old Style;
     font-style: italic;   
@@ -31,7 +33,7 @@
 }
 #Welcomep2{
     color: white;
-    font-size: 20px;
+    font-size: 42px;
     font-family: Bookman Old Style;
     font-style: italic;
 }
@@ -40,9 +42,9 @@
 #DonationOptions a:hover{
     color: rgb(55,0,55);
     background-color: white;
-    font-size: 20px;
+    font-size: 36px;
     text-decoration: none;
-    font-family: Vladimir Script;
+    font-family: Bookman Old Style;
 }
 
 
