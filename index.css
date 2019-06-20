@@ -1,10 +1,19 @@
 #Navigation{
-    text-decoration: none;
     color: white;
     font-family: Vladimir Script;
     font-size: 14px;
     background-color:rgb(75, 94, 93)
 }
+#Navigation a:link,
+#Navigation a:visited{
+   color: white;
+   text-decoration: none;
+}
+#Navigation a:hover {
+    color: rgb(65, 175, 170);
+    text-decoration: none;
+}
+
 
 #Home{
     background-color: rgb(55, 0, 55);    
@@ -25,6 +34,15 @@
     font-size: 20px;
     font-family: Bookman Old Style;
     font-style: italic;
+}
+#DonationOptions a:link,
+#DonationOptions a:visited,
+#DonationOptions a:hover{
+    color: rgb(55,0,55);
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Vladimir Script;
 }
 
 
