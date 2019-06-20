@@ -50,8 +50,8 @@
 
 #DonationOptions{
     word-spacing: 75px;
-    margin: 0 auto;
-    text-align: center;
+    position: absolute;
+    left: 50%;
 }
 #DonationOptions a:link,
 #DonationOptions a:visited{
@@ -86,7 +86,8 @@
     color: white;
     font-family: Bookman Old Style;
     margin-left: 35px;
-    font-size: 16px
+    font-size: 24px;
+    font-style: bold;
 }
 #AboutUsIssues{
     color:white;
