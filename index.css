@@ -47,12 +47,14 @@
     font-family: Bookman Old Style;
     font-style: italic;
 }
+
+#DonationOptions{
+    word-spacing: 75px;
+    margin: 0 auto;
+}
 #DonationOptions a:link,
 #DonationOptions a:visited{
-    word-spacing: 75px;
-    width : 100px;
     padding: 20px 30px;
-    margin: 0 auto;
     color: rgb(55,0,55);
     background-color: white;
     font-size: 36px;
