@@ -50,8 +50,7 @@
 
 #DonationOptions{
     word-spacing: 75px;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
 #DonationOptions a:link,
 #DonationOptions a:visited{
@@ -89,7 +88,7 @@
     font-size: 24px;
     font-style: bold;
     float: left;
-    width: 60%;
+    width: 50%;
 }
 #AboutUsImage{
     float: right;
@@ -115,4 +114,11 @@
     font-style: bold;
     float: left;
     width: 40%;
+}
+#ContactForm{
+    color: white;
+    font-family: Bookman Old Style;
+    font-size: 18px;
+    float: right;
+    margin-right: 35px;
 }
