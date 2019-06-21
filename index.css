@@ -121,7 +121,8 @@
     color: white;
     font-family: Vladimir Script;
     font-size: 50px;
-    margin-left: 35px;
+    float:right;
+    margin-right: 35px;
 }
 #ContactUsInfo{
     color: white;
@@ -140,7 +141,7 @@
     font-family: Bookman Old Style;
     font-size: 18px;
     float: right;
-    margin-right: 125px;
+    margin-right: 35px;
 }
 
 
