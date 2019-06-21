@@ -89,12 +89,11 @@
     font-size: 24px;
     font-style: bold;
     float: left;
-    width: 50%;
+    width: 60%;
 }
 #AboutUsImage{
     float: right;
     margin-right: 35px;
-    padding-top: 24px;
     
 }
 
