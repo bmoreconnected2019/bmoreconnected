@@ -38,7 +38,8 @@
 #Title{
     color: white;
     width: 100%;
-    margin: 0 auto;   
+    margin: 0 auto;  
+    text-align: center; 
     font-family: Vladimir Script;
     font-size: 72px;
     
@@ -56,6 +57,7 @@
     word-spacing: 75px;
     width: 100%;
     margin: auto;
+    text-align: center;
     /*margin-left: 295px*/
 }
 #DonationOptions a:link,
