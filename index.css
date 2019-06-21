@@ -50,7 +50,7 @@
 
 #DonationOptions{
     word-spacing: 75px;
-    text-align: center;
+    margin-left: 250px
 }
 #DonationOptions a:link,
 #DonationOptions a:visited{
@@ -88,7 +88,7 @@
     font-size: 24px;
     font-style: bold;
     float: left;
-    width: 50%;
+    width: 40%;
 }
 #AboutUsImage{
     float: right;
@@ -121,4 +121,8 @@
     font-size: 18px;
     float: right;
     margin-right: 35px;
+}
+#flowers{
+    float: left;
+    margin-left: 60px;
 }
