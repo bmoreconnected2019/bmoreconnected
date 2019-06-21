@@ -29,7 +29,7 @@
 }
 #Welcome{
     float:left;
-    margin-left: 270px;
+    margin-left: 285px;
     font-size: 30px;
     color: white;
     font-family: Bookman Old Style;
@@ -133,7 +133,7 @@
     width: 55%;
 }
 #ContactUsInfo img{
-    margin-left: 45px;
+    margin-left: 90px;
 }
 #ContactForm{
     color: white;
