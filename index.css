@@ -37,8 +37,8 @@
 }
 #Title{
     color: white;
-    margin: auto;
     width: 100%;
+    margin: 0 auto;   
     font-family: Vladimir Script;
     font-size: 72px;
     
@@ -130,7 +130,6 @@
 }
 #flowers{
     float: left;
-    width: 55%;
     margin-left: 50px;
 }
 
