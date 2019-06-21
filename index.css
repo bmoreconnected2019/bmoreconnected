@@ -28,6 +28,7 @@
     background-color: rgb(55,0,55);;    
 }
 #Welcome{
+    float:left;
     margin-left: 75px;
     font-size: 30px;
     color: white;
@@ -36,12 +37,14 @@
 }
 #Title{
     color: white;
-    text-align: center;
+    margin: auto;
+    width: 100%;
     font-family: Vladimir Script;
     font-size: 72px;
     
 }
 #Welcomep2{
+    float: right;
     margin-right: 75px;
     color: white;
     font-size: 30px;
@@ -51,7 +54,7 @@
 
 #DonationOptions{
     word-spacing: 75px;
-    margin-left: 295px
+    /*margin-left: 295px*/
 }
 #DonationOptions a:link,
 #DonationOptions a:visited{
@@ -122,5 +125,10 @@
     font-size: 18px;
     float: right;
     margin-right: 125px;
+}
+#flowers{
+    float: left;
+    width: 55%;
+    margin: auto;
 }
 
