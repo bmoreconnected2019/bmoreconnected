@@ -29,7 +29,7 @@
 }
 #Welcome{
     float:left;
-    margin-left: 250px;
+    margin-left: 270px;
     font-size: 30px;
     color: white;
     font-family: Bookman Old Style;
@@ -103,14 +103,14 @@
     margin-right: 35px;
     
 }
-#issueslink a:link,
-#issueslink a:visited{
+#AboutUsInfo a:link,
+#AboutUsInfo a:visited{
     color: rgb(55,0,55);
     font-size: 24px;
     text-decoration: none;
     font-family: Bookman Old Style;
 }
-#issueslink a:hover{
+#AboutUsInfo a:hover{
     font-style: italic;
 }
 
@@ -132,6 +132,9 @@
     float: left;
     width: 55%;
 }
+#ContactUsInfo img{
+    margin-left: 45px;
+}
 #ContactForm{
     color: white;
     font-family: Bookman Old Style;
@@ -139,8 +142,5 @@
     float: right;
     margin-right: 125px;
 }
-#flowers{
-    float: left;
-    margin-left: 50px;
-}
+
 
