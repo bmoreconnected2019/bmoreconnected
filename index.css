@@ -54,6 +54,8 @@
 
 #DonationOptions{
     word-spacing: 75px;
+    width: 100%;
+    margin: auto;
     /*margin-left: 295px*/
 }
 #DonationOptions a:link,
