@@ -36,12 +36,13 @@
 }
 #Title{
     color: white;
+    text-align: center;
     font-family: Vladimir Script;
     font-size: 72px;
-    margin-left: 165px;
+    
 }
 #Welcomep2{
-    margin-left: 220px;
+    margin-right: 35px;
     color: white;
     font-size: 30px;
     font-family: Bookman Old Style;
