@@ -117,24 +117,16 @@
 #ContactUs{
     background-color: rgb(85, 104, 103)
 }
+#ContactUsInfo img{
+    float: left;
+    margin-left: 90px;
+}
 #ContactUsTitle{
     color: white;
     font-family: Vladimir Script;
     font-size: 150px;
     float:right;
-    margin-right: 35px;
-}
-#ContactUsInfo{
-    color: white;
-    font-family: Bookman Old Style;
-    margin-left: 35px;
-    font-size: 24px;
-    font-style: bold;
-    float: left;
-    width: 55%;
-}
-#ContactUsInfo img{
-    margin-left: 90px;
+    margin-right: 105px;
 }
 #ContactForm{
     width: 55%;
