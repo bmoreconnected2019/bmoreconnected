@@ -137,9 +137,10 @@
     margin-left: 90px;
 }
 #ContactForm{
+    width: 55%;
     color: white;
     font-family: Bookman Old Style;
-    font-size: 18px;
+    font-size: 24px;
     float: right;
     margin-right: 35px;
 }
