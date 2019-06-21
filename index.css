@@ -52,6 +52,7 @@
     word-spacing: 75px;
     position: absolute;
     left: 50%;
+    margin-left: -50px;
 }
 #DonationOptions a:link,
 #DonationOptions a:visited{
@@ -97,10 +98,11 @@
     font-family: Bookman Old Style;
     font-size: 24px;
     float: left;
+    width: 40%;
 }
 #AboutUsImage{
     float: right;
-    margin-left: 35px;
+    margin-left: 70px;
     
 }
 
