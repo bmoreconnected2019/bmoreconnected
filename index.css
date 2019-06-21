@@ -124,9 +124,9 @@
 #ContactUsTitle{
     color: white;
     font-family: Vladimir Script;
-    font-size: 150px;
+    font-size: 50px;
     float:right;
-    margin-right: 105px;
+    margin-right: 205px;
 }
 #ContactForm{
     width: 55%;
