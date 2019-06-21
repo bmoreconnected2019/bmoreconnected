@@ -28,7 +28,7 @@
     background-color: rgb(55,0,55);;    
 }
 #Welcome{
-    margin-left: 35px;
+    margin-left: 75px;
     font-size: 30px;
     color: white;
     font-family: Bookman Old Style;
@@ -42,7 +42,7 @@
     
 }
 #Welcomep2{
-    margin-right: 35px;
+    margin-right: 75px;
     color: white;
     font-size: 30px;
     font-family: Bookman Old Style;
@@ -121,6 +121,6 @@
     font-family: Bookman Old Style;
     font-size: 18px;
     float: right;
-    margin-right: 100px;
+    margin-right: 125px;
 }
 
