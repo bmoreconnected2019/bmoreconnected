@@ -25,5 +25,19 @@
 
 
 #Home{
-    background-color: rgb(55,0,55);;    
+    background-color: rgb(55,0,55); 
+}
+#Title{
+    color: white;
+    font-family: Vladimir Script;
+    font-size: 50px;
+    margin-left: 35px;
+}
+#info{
+    color: white;
+    font-family: Bookman Old Style;
+    margin-left: 35px;
+    font-size: 24px;
+    font-style: bold;
+    
 }
