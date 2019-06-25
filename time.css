@@ -55,6 +55,13 @@
     font-style: bold;
     word-spacing: 60px;
 }
+#app{
+    word-spacing: normal;
+    color: white;
+    font-family: Vladimir Script;
+    font-size: 30px;
+    margin-left: 35px;
+}
 #app2{
     color:white;
     font-family: Bookman Old Style;
@@ -62,6 +69,13 @@
     font-size: 14px;
     font-style: bold;
     word-spacing: 60px;
+}
+#goal{
+    word-spacing: normal;
+    color: white;
+    font-family: Vladimir Script;
+    font-size: 30px;
+    margin-left: 35px;
 }
 #goal2{
     color:white;
@@ -71,15 +85,6 @@
     font-style: bold;
     word-spacing: 60px;
 }
-#app{
-    color: white;
-    font-family: Vladimir Script;
-    font-size: 30px;
-    margin-left: 35px;
-}
-#goal{
-    color: white;
-    font-family: Vladimir Script;
-    font-size: 30px;
+#sub{
     margin-left: 35px;
 }
