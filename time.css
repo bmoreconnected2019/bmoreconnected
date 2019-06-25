@@ -47,7 +47,23 @@
     font-size: 30px;
     margin-left: 35px;
 }
-#timecheck{
+#give2{
+    color:white;
+    font-family: Bookman Old Style;
+    margin-left: 35px;
+    font-size: 14px;
+    font-style: bold;
+    word-spacing: 60px;
+}
+#app2{
+    color:white;
+    font-family: Bookman Old Style;
+    margin-left: 35px;
+    font-size: 14px;
+    font-style: bold;
+    word-spacing: 60px;
+}
+#goal2{
     color:white;
     font-family: Bookman Old Style;
     margin-left: 35px;
