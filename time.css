@@ -47,3 +47,23 @@
     font-size: 30px;
     margin-left: 35px;
 }
+#timecheck{
+    color:white;
+    font-family: Bookman Old Style;
+    margin-left: 35px;
+    font-size: 14px;
+    font-style: bold;
+    word-spacing: 60px;
+}
+#app{
+    color: white;
+    font-family: Vladimir Script;
+    font-size: 30px;
+    margin-left: 35px;
+}
+#goal{
+    color: white;
+    font-family: Vladimir Script;
+    font-size: 30px;
+    margin-left: 35px;
+}
