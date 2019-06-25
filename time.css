@@ -45,12 +45,13 @@
     color: white;
     font-family: Vladimir Script;
     font-size: 30px;
+    font-style: bold;
     margin-left: 35px;
 }
 #give2{
     color:white;
     font-family: Bookman Old Style;
-    margin-left: 35px;
+    margin-left: 35px;    
     font-size: 14px;
     font-style: bold;
     word-spacing: 60px;
@@ -58,6 +59,7 @@
 #app{
     word-spacing: normal;
     color: white;
+    font-style: bold;
     font-family: Vladimir Script;
     font-size: 30px;
     margin-left: 35px;
@@ -75,6 +77,7 @@
     color: white;
     font-family: Vladimir Script;
     font-size: 30px;
+    font-style: bold;
     margin-left: 35px;
 }
 #goal2{

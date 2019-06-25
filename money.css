@@ -43,6 +43,7 @@
 }
 #giveTitle{
     color: white;
+    font-style: bold;
     font-family: Vladimir Script;
     font-size: 31px;
     margin-left: 35px;
