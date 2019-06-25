@@ -24,16 +24,16 @@
 }
 
 
-#Home{
+#HomeTitle{
     background-color: rgb(55,0,55); 
 }
-#Title{
+#TitleTitle{
     color: white;
     font-family: Vladimir Script;
     font-size: 50px;
     margin-left: 35px;
 }
-#info{
+#infoTitle{
     color: white;
     font-family: Bookman Old Style;
     margin-left: 35px;
@@ -41,7 +41,7 @@
     font-style: bold;
     
 }
-#give{
+#giveTitle{
     color: white;
     font-family: Vladimir Script;
     font-size: 31px;
